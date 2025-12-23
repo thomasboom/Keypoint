@@ -1,0 +1,155 @@
+{
+  "nav": {
+    "home": "Home",
+    "articles": "Artikelen",
+    "about": "Over",
+    "contact": "Contact",
+    "search": "Zoek artikelen...",
+    "searchPlaceholder": "Zoek privacy onderwerpen...",
+    "language": "Taal",
+    "darkMode": "Donkere modus inschakelen",
+    "lightMode": "Lichte modus inschakelen"
+  },
+  "hero": {
+    "title": "Jouw Privacy, Jouw Controle",
+    "subtitle": "Wij helpen je met kennis om je digitale leven te beschermen. Van basisprincipes voor beginners tot geavanceerde beveiligingsstrategieën.",
+    "cta": "Begin met Leren",
+    "explore": "Verken Onderwerpen"
+  },
+  "featured": {
+    "title": "Uitgelichte Artikelen",
+    "subtitle": "Essentiële privacygidsen om mee te beginnen",
+    "viewAll": "Bekijk Alle Artikelen"
+  },
+  "topics": {
+    "title": "Verken Onderwerpen",
+    "beginner": {
+      "title": "Beginner",
+      "description": "Begin je privacy-reis met de basisprincipes"
+    },
+    "intermediate": {
+      "title": "Gevorderd",
+      "description": "Verdiep je begrip van digitale privacy"
+    },
+    "advanced": {
+      "title": "Expert",
+      "description": "Beheers geavanceerde privacetechnieken"
+    }
+  },
+  "search": {
+    "title": "Zoeken",
+    "results": "Zoekresultaten",
+    "noResults": "Geen artikelen gevonden voor je zoekopdracht",
+    "tryDifferent": "Probeer andere zoekwoorden of blader door onze onderwerpen"
+  },
+  "article": {
+    "readTime": "min lezen",
+    "published": "Gepubliceerd",
+    "updated": "Bijgewerkt",
+    "by": "Door",
+    "share": "Deel dit artikel",
+    "related": "Gerelateerde Artikelen"
+  },
+  "footer": {
+    "tagline": "Privacy-onderwijs toegankelijk maken voor iedereen",
+    "links": "Snelle Links",
+    "resources": "Bronnen",
+    "legal": "Juridisch",
+    "copyright": "Alle rechten voorbehouden.",
+    "privacyPolicy": "Privacybeleid",
+    "terms": "Gebruiksvoorwaarden",
+    "accessibility": "Toegankelijkheid"
+  },
+  "articles": {
+    "password-security": {
+      "title": "Basisprincipes van Wachtwoordbeveiliging",
+      "description": "Leer hoe je sterke wachtwoorden maakt en beheert",
+      "category": "Beginner",
+      "keywords": ["wachtwoorden", "beveiliging", "basis"]
+    },
+    "two-factor-auth": {
+      "title": "Twee-Factor Authenticatie",
+      "description": "Voeg een extra beveiligingslaag toe aan je accounts",
+      "category": "Beginner",
+      "keywords": ["2fa", "authenticatie", "beveiliging"]
+    },
+    "privacy-settings": {
+      "title": "Gids voor Privacy-instellingen",
+      "description": "Configureer je apparaten en apps voor maximale privacy",
+      "category": "Beginner",
+      "keywords": ["instellingen", "privacy", "configuratie"]
+    },
+    "social-media-privacy": {
+      "title": "Social Media Privacy Tips",
+      "description": "Bescherm je persoonlijke informatie op sociale platforms",
+      "category": "Beginner",
+      "keywords": ["social media", "facebook", "twitter", "instagram"]
+    },
+    "email-security": {
+      "title": "Best Practices voor E-mailbeveiliging",
+      "description": "Houd je e-mailcommunicatie veilig en privé",
+      "category": "Beginner",
+      "keywords": ["e-mail", "phishing", "beveiliging"]
+    },
+    "encrypted-messaging": {
+      "title": "Versleutelde Berichtenapps",
+      "description": "Communiceer veilig met end-to-end versleuteling",
+      "category": "Gevorderd",
+      "keywords": ["berichten", "versleuteling", "communicatie"]
+    },
+    "vpn-guide": {
+      "title": "VPN: Wat Je Moet Weten",
+      "description": "Begrijp virtuele privénetwerken en wanneer je ze gebruikt",
+      "category": "Gevorderd",
+      "keywords": ["vpn", "netwerk", "beveiliging"]
+    },
+    "browser-privacy": {
+      "title": "Best Practices voor Browser-privacy",
+      "description": "Beveilig je browse-ervaring op het web",
+      "category": "Gevorderd",
+      "keywords": ["browser", "tracking", "web"]
+    },
+    "mobile-privacy": {
+      "title": "Essentiële Mobiele Privacy",
+      "description": "Bescherm je data op smartphones en tablets",
+      "category": "Gevorderd",
+      "keywords": ["mobiel", "android", "ios", "apps"]
+    },
+    "cloud-storage": {
+      "title": "Gids voor Veilige Cloudopslag",
+      "description": "Bewaar en deel bestanden veilig in de cloud",
+      "category": "Gevorderd",
+      "keywords": ["cloud", "opslag", "bestanden", "backup"]
+    },
+    "data-protection": {
+      "title": "Strategieën voor Gegevensbescherming",
+      "description": "Geavanceerde technieken om je persoonlijke gegevens te beschermen",
+      "category": "Expert",
+      "keywords": ["data", "bescherming", "geavanceerd"]
+    },
+    "digital-footprint": {
+      "title": "Je Digitale Voetafdruk Beheren",
+      "description": "Controleer en minimaliseer je online aanwezigheid",
+      "category": "Expert",
+      "keywords": ["voetafdruk", "online", "aanwezigheid"]
+    },
+    "tor-networks": {
+      "title": "Begrijpen van Tor en Anoniem Browsen",
+      "description": "Leer over anoniem webbrowsen met Tor",
+      "category": "Expert",
+      "keywords": ["tor", "anoniem", "browsen", "onion"]
+    },
+    "encryption-basics": {
+      "title": "Basisprincipes van Versleuteling",
+      "description": "Begrijp hoe versleuteling je data beschermt",
+      "category": "Expert",
+      "keywords": ["versleuteling", "cryptografie", "beveiliging"]
+    },
+    "opsec-guide": {
+      "title": "Basisprincipes van Operationele Beveiliging (OpSec)",
+      "description": "Geavanceerde technieken voor het behouden van anonimiteit",
+      "category": "Expert",
+      "keywords": ["opsec", "beveiliging", "anonimiteit", "geavanceerd"]
+    }
+  }
+}

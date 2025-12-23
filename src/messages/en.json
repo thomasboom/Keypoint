@@ -1,0 +1,155 @@
+{
+  "nav": {
+    "home": "Home",
+    "articles": "Articles",
+    "about": "About",
+    "contact": "Contact",
+    "search": "Search articles...",
+    "searchPlaceholder": "Search privacy topics...",
+    "language": "Language",
+    "darkMode": "Toggle dark mode",
+    "lightMode": "Toggle light mode"
+  },
+  "hero": {
+    "title": "Your Privacy, Your Control",
+    "subtitle": "Empowering you with knowledge to protect your digital life. From beginner basics to advanced security strategies.",
+    "cta": "Start Learning",
+    "explore": "Explore Topics"
+  },
+  "featured": {
+    "title": "Featured Articles",
+    "subtitle": "Essential privacy guides to get you started",
+    "viewAll": "View All Articles"
+  },
+  "topics": {
+    "title": "Explore Topics",
+    "beginner": {
+      "title": "Beginner",
+      "description": "Start your privacy journey with fundamentals"
+    },
+    "intermediate": {
+      "title": "Intermediate",
+      "description": "Deepen your understanding of digital privacy"
+    },
+    "advanced": {
+      "title": "Advanced",
+      "description": "Master advanced privacy techniques"
+    }
+  },
+  "search": {
+    "title": "Search",
+    "results": "Search Results",
+    "noResults": "No articles found matching your search",
+    "tryDifferent": "Try different keywords or browse our topics"
+  },
+  "article": {
+    "readTime": "min read",
+    "published": "Published",
+    "updated": "Updated",
+    "by": "By",
+    "share": "Share this article",
+    "related": "Related Articles"
+  },
+  "footer": {
+    "tagline": "Making privacy education accessible to everyone",
+    "links": "Quick Links",
+    "resources": "Resources",
+    "legal": "Legal",
+    "copyright": "All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "accessibility": "Accessibility"
+  },
+  "articles": {
+    "password-security": {
+      "title": "Password Security Fundamentals",
+      "description": "Learn how to create and manage strong passwords",
+      "category": "Beginner",
+      "keywords": ["passwords", "security", "basics"]
+    },
+    "two-factor-auth": {
+      "title": "Two-Factor Authentication",
+      "description": "Add an extra layer of security to your accounts",
+      "category": "Beginner",
+      "keywords": ["2fa", "authentication", "security"]
+    },
+    "privacy-settings": {
+      "title": "Privacy Settings Guide",
+      "description": "Configure your devices and apps for maximum privacy",
+      "category": "Beginner",
+      "keywords": ["settings", "privacy", "configuration"]
+    },
+    "social-media-privacy": {
+      "title": "Social Media Privacy Tips",
+      "description": "Protect your personal information on social platforms",
+      "category": "Beginner",
+      "keywords": ["social media", "facebook", "twitter", "instagram"]
+    },
+    "email-security": {
+      "title": "Email Security Best Practices",
+      "description": "Keep your email communications secure and private",
+      "category": "Beginner",
+      "keywords": ["email", "phishing", "security"]
+    },
+    "encrypted-messaging": {
+      "title": "Encrypted Messaging Apps",
+      "description": "Communicate securely with end-to-end encryption",
+      "category": "Intermediate",
+      "keywords": ["messaging", "encryption", "communication"]
+    },
+    "vpn-guide": {
+      "title": "VPN: What You Need to Know",
+      "description": "Understand virtual private networks and when to use them",
+      "category": "Intermediate",
+      "keywords": ["vpn", "network", "security"]
+    },
+    "browser-privacy": {
+      "title": "Browser Privacy Best Practices",
+      "description": "Secure your web browsing experience",
+      "category": "Intermediate",
+      "keywords": ["browser", "tracking", "web"]
+    },
+    "mobile-privacy": {
+      "title": "Mobile Privacy Essentials",
+      "description": "Protect your data on smartphones and tablets",
+      "category": "Intermediate",
+      "keywords": ["mobile", "android", "ios", "apps"]
+    },
+    "cloud-storage": {
+      "title": "Secure Cloud Storage Guide",
+      "description": "Safely store and share files in the cloud",
+      "category": "Intermediate",
+      "keywords": ["cloud", "storage", "files", "backup"]
+    },
+    "data-protection": {
+      "title": "Data Protection Strategies",
+      "description": "Advanced techniques to protect your personal data",
+      "category": "Advanced",
+      "keywords": ["data", "protection", "advanced"]
+    },
+    "digital-footprint": {
+      "title": "Managing Your Digital Footprint",
+      "description": "Control and minimize your online presence",
+      "category": "Advanced",
+      "keywords": ["footprint", "online", "presence"]
+    },
+    "tor-networks": {
+      "title": "Understanding Tor and Anonymous Browsing",
+      "description": "Learn about anonymous web browsing with Tor",
+      "category": "Advanced",
+      "keywords": ["tor", "anonymous", "browsing", "onion"]
+    },
+    "encryption-basics": {
+      "title": "Encryption Fundamentals",
+      "description": "Understand how encryption protects your data",
+      "category": "Advanced",
+      "keywords": ["encryption", "cryptography", "security"]
+    },
+    "opsec-guide": {
+      "title": "Operational Security (OpSec) Basics",
+      "description": "Advanced techniques for maintaining anonymity",
+      "category": "Expert",
+      "keywords": ["opsec", "security", "anonymity", "advanced"]
+    }
+  }
+}
